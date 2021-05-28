@@ -1,0 +1,1 @@
+Here is the result of reading file: Hello, this is a text file.Here is the result of reading file: Hello, this is a text file.
